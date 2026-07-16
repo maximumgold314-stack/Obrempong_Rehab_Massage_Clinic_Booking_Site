@@ -1,0 +1,45 @@
+Attached Element Context from Integrated Browser
+
+Element: div.logo
+
+URL: file:///c%3A/Users/Hp/Desktop/New%20folder/index.html
+
+HTML Path: header > div.logo
+
+Outer HTML:
+```html
+<div class="logo">Obrempong Rehab</div>
+```
+
+Dimensions:
+- top: 20px
+- left: 90px
+- width: 252px
+- height: 32px
+
+CSS:
+```css
+* { margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif; }
+.logo { font-size:28px;
+font-weight:700;
+color:#0a8f67; }
+
+/* Inherited */
+* { font-family:'Poppins',sans-serif }
+
+/* Resolved values */
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+color: rgb(10, 143, 103);
+display: block;
+font-family: Poppins, sans-serif;
+font-size: 28px;
+font-weight: 700;
+height: 32px;
+unicode-bidi: isolate /*UA*/;
+width: 252.016px;
+```
